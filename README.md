@@ -3,7 +3,7 @@
 I'm Raphael Joer, Software Engineer in love with UI/UX, working over React.Js.
 
 My favourites tools: 
-  - TypeScript
+  - <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
   - React Js
   - React Native
   - Node Js
