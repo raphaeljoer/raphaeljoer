@@ -12,7 +12,7 @@ My favourites tools:
 
 <img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node Js
 
-<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> Next Js
+<img src="https://i.ibb.co/BsJh9n7/nextjs.png" width="20"/> Next Js
 
 Currently learning:  
 <img src="https://i.ibb.co/TH3HpPM/68747470733a2f2f692e6962622e636f2f326e724e537a662f6772617068716c2e706e67.png" width="20"/> GraphQL
