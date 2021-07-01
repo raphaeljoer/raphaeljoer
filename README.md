@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://joer.vercel.app/">
-    <img src="https://i.ibb.co/BghTGZW/cover-github.png" alt="cover" title="Raphael Joer Desenvolvedor" border="0">
+    <img src="https://i.ibb.co/hYQBc8V/git-cover.png" alt="cover" title="Raphael Joer Desenvolvedor" border="0">
   </a>
 </p>
 
