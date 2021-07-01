@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://joer.vercel.app/">
+    <img src="https://i.ibb.co/BghTGZW/cover-github.png" alt="cover" title="Raphael Joer Desenvolvedor" border="0">
+  </a>
+</p>
+
 ### Hi there 👋
 
 I'm Raphael Joer, Software Engineer fascinated by UI/UX.
