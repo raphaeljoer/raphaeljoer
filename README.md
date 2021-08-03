@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://joer.vercel.app/">
-    <img src="https://i.ibb.co/hYQBc8V/git-cover.png" alt="cover" title="Raphael Joer Desenvolvedor" border="0">
-  </a>
-</p>
-
 ### Hi there 👋
 
 I'm Software Engineer at <a href="https://veganhive.com/">VeganHive</a> I have a great passion for user interfaces and intuitive and dynamic experiences. I just love what I do. ❤️❤️
