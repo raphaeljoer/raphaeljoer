@@ -28,4 +28,5 @@ My favourites tools:
 Currently learning:
 <br/>
 Clean Architecture by Robert C. Martin
+</br>
 Implementing Domain-Driven Design by Vernon
