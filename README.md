@@ -12,6 +12,8 @@ My favourites tools:
 <br/>
 <img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React Js
 <br/>
+<img src="https://i.ibb.co/JRHwxyR/redux-react-javascript-freecodecamp-npm-png-favpng-6-F2x50vis-Ku-C0tr-BQ0952-Cm1-E-t.jpg" width="20"/> Redux
+<br/>
 <img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React Native
 <br/>
 <img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node Js
