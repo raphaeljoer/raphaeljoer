@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Software Engineer at <a href="https://veganhive.com/">VeganHive</a> I have a great passion for user interfaces and intuitive and dynamic experiences. I just love what I do. ❤️❤️
+I'm Software Engineer at <a href="https://hcoadvisors.com/">H&CO USA</a> with more than 17 years of experience delivering tech solutions. An avid programmer and fast learner. Obsessed with details and quality. Always trying to improve development and communication processes. I love simple and elegant solutions to every problem.
 
 [![Twitter Badge](https://img.shields.io/badge/-@raphaeljoer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raphaeljoer)](https://twitter.com/raphaeljoer)
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Joer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaeljoer)](https://www.linkedin.com/in/raphaeljoer)
