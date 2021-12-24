@@ -8,7 +8,9 @@ I'm Software Engineer at <a href="https://www.hcoadvisors.com/">H&CO USA</a> wit
 <strong>My favourites tools:</strong>
 <br/>
 <br/>
+<div style="display: flex; alignItems: center;">
 <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
+</div>
 <br/>
 <img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React.js
 <br/>
