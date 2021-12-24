@@ -5,7 +5,7 @@ I'm Software Engineer at <a href="https://www.hcoadvisors.com/">H&CO USA</a> wit
 [![Twitter Badge](https://img.shields.io/badge/-@raphaeljoer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raphaeljoer)](https://twitter.com/raphaeljoer)
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Joer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaeljoer)](https://www.linkedin.com/in/raphaeljoer)
 
-My favourites tools:
+<strong>My favourites tools:</strong>
 <br/>
 <br/>
 <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
@@ -25,8 +25,9 @@ My favourites tools:
 <img src="https://i.ibb.co/j4CMBK3/68747470733a2f2f692e6962622e636f2f5430587a59564b2f61706f6c6c6f2e706e67.png" width="20"/> Apollo
 <br/>
 <br/>
-Currently learning:
+<strong>Currently learning:</strong>
+<br/>
 <br/>
 Clean Architecture by Robert C. Martin
-</br>
+<br/>
 Implementing Domain-Driven Design by Vernon
