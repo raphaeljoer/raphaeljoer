@@ -14,7 +14,7 @@ I'm Software Engineer at <a href="https://www.hcoadvisors.com/">H&CO USA</a> wit
 <br/>
 <img src="https://i.ibb.co/kKct79J/favpng-redux-react-javascript-angular-cascading-style-sheets.png" width="20"/> Redux
 <br/>
-<img src="https://i.ibb.co/BsJh9n7/nextjs.png" width="20"/> Next.js
+<img src="https://i.ibb.co/6HSg83k/nextjs-icon-132160.png" width="20"/> Next.js
 <br/>
 <img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React Native
 <br/>
