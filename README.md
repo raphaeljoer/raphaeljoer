@@ -10,15 +10,15 @@ My favourites tools:
 <br/>
 <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
 <br/>
-<img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React Js
+<img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React.js
 <br/>
-<img src="https://i.ibb.co/JRHwxyR/redux-react-javascript-freecodecamp-npm-png-favpng-6-F2x50vis-Ku-C0tr-BQ0952-Cm1-E-t.jpg" width="20"/> Redux
+<img src="https://i.ibb.co/kKct79J/favpng-redux-react-javascript-angular-cascading-style-sheets.png" width="20"/> Redux
+<br/>
+<img src="https://i.ibb.co/BsJh9n7/nextjs.png" width="20"/> Next.js
 <br/>
 <img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React Native
 <br/>
-<img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node Js
-<br/>
-<img src="https://i.ibb.co/BsJh9n7/nextjs.png" width="20"/> Next Js
+<img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node.js
 <br/>
 <img src="https://i.ibb.co/TH3HpPM/68747470733a2f2f692e6962622e636f2f326e724e537a662f6772617068716c2e706e67.png" width="20"/> GraphQL
 <br/>
@@ -27,4 +27,5 @@ My favourites tools:
 <br/>
 Currently learning:
 <br/>
-Clean Architecture
+Clean Architecture by Robert C. Martin
+Implementing Domain-Driven Design by Vernon
