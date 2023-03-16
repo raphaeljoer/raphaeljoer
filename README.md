@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Software Engineer at <a href="https://www.hcoadvisors.com/">H&CO USA</a> with more than 17 years of experience delivering tech solutions. An avid programmer and fast learner. Obsessed with details and quality. Always trying to improve development and communication processes. I love simple and elegant solutions to every problem.
+More than 18 years of experience delivering tech solutions. An avid programmer and fast learner. Obsessed with details and quality. Strong UX/UI base. Always trying to improve development and communication processes. I love simple and elegant solutions to every problem. I'm a front end architect, I like to implement Clean Arch in my React projects to keep the layers decoupled and make the application more scalable, testable and future proof.
 
 [![Twitter Badge](https://img.shields.io/badge/-@raphaeljoer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raphaeljoer)](https://twitter.com/raphaeljoer)
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Joer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaeljoer)](https://www.linkedin.com/in/raphaeljoer)
@@ -24,10 +24,3 @@ I'm Software Engineer at <a href="https://www.hcoadvisors.com/">H&CO USA</a> wit
 <br/>
 <img src="https://i.ibb.co/j4CMBK3/68747470733a2f2f692e6962622e636f2f5430587a59564b2f61706f6c6c6f2e706e67.png" width="20"/> Apollo
 <br/>
-<br/>
-<strong>Currently learning:</strong>
-<br/>
-<br/>
-Clean Architecture by Robert C. Martin
-<br/>
-Implementing Domain-Driven Design by Vernon
