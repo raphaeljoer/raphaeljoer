@@ -11,10 +11,10 @@ I know the React's fundamentals. I know how the reconciliation algorithm works. 
 <strong>My current stack:</strong>
 <br/>
 <br/>
-<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript - 
-<img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React.js - 
-<img src="https://i.ibb.co/kKct79J/favpng-redux-react-javascript-angular-cascading-style-sheets.png" width="20"/> Redux - 
-<img src="https://i.ibb.co/6HSg83k/nextjs-icon-132160.png" width="20"/> Next.js - 
-<img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node.js - 
-<img src="https://i.ibb.co/TH3HpPM/68747470733a2f2f692e6962622e636f2f326e724e537a662f6772617068716c2e706e67.png" width="20"/> GraphQL - 
+<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
+<img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React.js
+<img src="https://i.ibb.co/kKct79J/favpng-redux-react-javascript-angular-cascading-style-sheets.png" width="20"/> Redux
+<img src="https://i.ibb.co/6HSg83k/nextjs-icon-132160.png" width="20"/> Next.js
+<img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node.js
+<img src="https://i.ibb.co/TH3HpPM/68747470733a2f2f692e6962622e636f2f326e724e537a662f6772617068716c2e706e67.png" width="20"/> GraphQL
 <img src="https://i.ibb.co/j4CMBK3/68747470733a2f2f692e6962622e636f2f5430587a59564b2f61706f6c6c6f2e706e67.png" width="20"/> Apollo
