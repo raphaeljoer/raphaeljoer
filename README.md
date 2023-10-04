@@ -12,7 +12,6 @@ I know the React's fundamentals. I know how the reconciliation algorithm works. 
 <br/>
 <br/>
 <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
-<br/>
 <img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React.js
 <br/>
 <img src="https://i.ibb.co/kKct79J/favpng-redux-react-javascript-angular-cascading-style-sheets.png" width="20"/> Redux
