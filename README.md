@@ -1,4 +1,4 @@
-### Hi there 👋
+### About 👋
 
 More than 18 years of experience delivering tech solutions. An avid programmer and fast learner. Obsessed with details and quality. Strong UX/UI base. Always trying to improve development and communication processes. I love simple and elegant solutions to every problem. I like to implement Clean Arch in my React projects to keep the layers decoupled and make the application more scalable, testable and future proof.
 
