@@ -11,14 +11,7 @@ I know the React's fundamentals. I know how the reconciliation algorithm works. 
 <strong>My current stack:</strong>
 <br/>
 <br/>
-<div style=`
-  display: flex;
-  align-item: center;
-  justify-content: center;
-  height: 24px
-`>
 <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
-</div>
 <img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React.js
 <img src="https://i.ibb.co/kKct79J/favpng-redux-react-javascript-angular-cascading-style-sheets.png" width="20"/> Redux
 <img src="https://i.ibb.co/6HSg83k/nextjs-icon-132160.png" width="20"/> Next.js
