@@ -10,8 +10,6 @@ I know the React's fundamentals. I know how the reconciliation algorithm works. 
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Joer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaeljoer)](https://www.linkedin.com/in/raphaeljoer)
 
 ### My current stack
-<br/>
-<br/>
 <span><img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript</span></br>
 <span><img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node.js</span></br>
 <span><img src="https://i.ibb.co/nw7bwV8/react.png" width="20"/> React.js</span></br>
