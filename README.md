@@ -15,6 +15,7 @@ I know the React's fundamentals. I know how the reconciliation algorithm works. 
   display: flex;
   align-item: center;
   justify-content: center;
+  height: 24px
 `>
 <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
 </div>
