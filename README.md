@@ -12,7 +12,7 @@ I know the React's fundamentals. I know how the reconciliation algorithm works. 
 ### My current stack
 <br/>
 <br/>
-<img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript
+<span><img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> TypeScript</span>
 </br>
 <img src="https://i.ibb.co/t3CwZkb/68747470733a2f2f692e6962622e636f2f7656786d794e322f6e6f64652e706e67.png" width="20"/> Node.js
 </br>
