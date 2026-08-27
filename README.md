@@ -2,9 +2,6 @@
 
 More than 20 years of experience delivering tech solutions. An avid programmer and fast learner. Obsessed with details and quality. Strong UX/UI base. Always trying to improve development and communication processes. I love simple and elegant solutions to every problem.
 
-### React (5 years xp)
-I know the React's fundamentals. I know how the reconciliation algorithm works. I know all the hooks in depth. I like to modularize the project by features. I like to separate business rules from the View layer (React only cares about views/components, dispatch events and handling states). I like to encapsulate code in custom hooks to reuse across the project. I like to use React-Query to work with front-end caching and handle promise states. I like to use lazy evaluation to reduce the main bundle size and not load the unnecessary code. I like to work using design system to maintain a consistent design and quickly build robust platforms.
-
 ### Links
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Joer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphaeljoer)](https://www.linkedin.com/in/raphaeljoer)
 
